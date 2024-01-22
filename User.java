@@ -5,4 +5,5 @@ class User
     private String password;
     private String email;
     private String contact;
+    private String city;
 }
